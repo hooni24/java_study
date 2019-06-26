@@ -108,8 +108,10 @@
 - enum
 - annotation
 - thread
+- I/O
+- network
+
+> 1.8
 - lambda
 - stream
 - optional
-- I/O
-- network
